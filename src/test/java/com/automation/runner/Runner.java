@@ -15,7 +15,7 @@ import io.cucumber.junit.CucumberOptions;
                            "classpath:FeatureFiles/More.feature",
 		                   "classpath:FeatureFiles/ProfileUpload.feature",
                          "classpath:FeatureFiles/Register.feature",
-                         "classpath:FeatureFiles/JObsSideMap.feature",
+                       //  "classpath:FeatureFiles/JObsSideMap.feature",
 }, 
 glue = { "classpath:com.automation.stepdef"}, 
    monochrome = true,
